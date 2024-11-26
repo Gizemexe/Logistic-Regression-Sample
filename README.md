@@ -17,6 +17,8 @@ The fit function trains the model using the gradient descent algorithm on the tr
 
 **Prediction (predict):**
 The predict function makes classification predictions for new data points after training. If the sigmoid function output is above 0.5, it classifies the observation as 1; otherwise, it classifies it as 0.
+## Output
+![image](https://github.com/user-attachments/assets/c49ef7e0-2e7c-48d2-b921-a547a094e9f1)
 
 ## Conclusion:
 The regularized logistic regression algorithm implemented in this assignment demonstrates good performance and generalization ability on the training data. With regularization, the model avoids overfitting, achieving a more balanced learning process. Each function in the code is designed to cover all necessary steps for training and testing the model.
