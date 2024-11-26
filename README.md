@@ -1,6 +1,4 @@
 ## Implementation of Regularized Logistic Regression
-
-**Project Overview**
 <p>This assignment involves implementing a classification model using the regularized logistic regression algorithm in Python. The LogisticRegression class includes methods to train the model, make predictions, compute the cost function, calculate gradients, and apply the sigmoid function. The project utilizes L2 regularization to improve model accuracy and prevent overfitting.</p>
 
 ## Methods and Explanations:
